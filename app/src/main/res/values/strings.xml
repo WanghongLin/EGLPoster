@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EGLPoster</string>
+    <string name="poster_on_texture_view">Poster on TextureView</string>
+    <string name="poster_on_gl_surface_view">Poster on GLSurfaceView</string>
+</resources>
